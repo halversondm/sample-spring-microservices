@@ -1,1 +1,7 @@
-/.project
+.DS_Store
+*.log
+
+.project
+.settings/
+target/
+*.iml
